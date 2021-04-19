@@ -3,7 +3,7 @@ Learning to track my code for jenkins development
 
  # jenkins-dev (Project Test)
  
-Learning Jenkins for class.
+Learning Jenkins for class, but first will play with version control.
  
  ## Getting Started
  
